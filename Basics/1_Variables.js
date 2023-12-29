@@ -4,5 +4,9 @@ var accountPassword = "@$#%^1245";
 accountCity = "Chattogram";
 let account;
 
-console.log(account);
+
+/*
+    please never use Var to declare variables cause of block scopes and functional scope
+*/
+console.table([accountId, accountEmail, accountPassword, accountCity, account]);
 

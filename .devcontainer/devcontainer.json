@@ -28,7 +28,9 @@
 				"formulahendry.auto-rename-tag",
 				"eamodio.gitlens",
 				"ms-azuretools.vscode-docker",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"formulahendry.code-runner",
+				"aaron-bond.better-comments"
 			],
 			"settings": {
 				"editor.fontSize": 16,
