@@ -25,11 +25,14 @@
 				"xabikos.JavaScriptSnippets",
 				"carbonid1.emmet-jss",
 				"skyran.js-jsx-snippets",
-				"formulahendry.auto-rename-tag"
+				"formulahendry.auto-rename-tag",
+				"eamodio.gitlens",
+				"ms-azuretools.vscode-docker",
+				"GitHub.copilot"
 			],
 			"settings": {
-				"editor.fontSize": 18,
-				"terminal.integrated.fontSize": 24,
+				"editor.fontSize": 16,
+				"terminal.integrated.fontSize": 10,
 				"editor.wordWrap": "on"
 			}
 			
