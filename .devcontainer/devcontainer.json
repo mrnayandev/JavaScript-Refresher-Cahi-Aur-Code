@@ -22,7 +22,10 @@
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight",
 				"akamud.vscode-theme-onedark",
-				"xabikos.JavaScriptSnippets"
+				"xabikos.JavaScriptSnippets",
+				"carbonid1.emmet-jss",
+				"skyran.js-jsx-snippets",
+				"formulahendry.auto-rename-tag"
 			],
 			"settings": {
 				"editor.fontSize": 18,
